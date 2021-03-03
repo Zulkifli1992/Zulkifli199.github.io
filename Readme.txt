@@ -1,6 +1,5 @@
 Thanks for downloading this template!
 
-Template Name: Kelly
-Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Zulkifli
+Template URL: https://github.com/Zulkifli1992/Zulkifli1992.github.io.git
+
